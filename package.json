@@ -1,0 +1,28 @@
+{
+  "name": "simple-php-manifest",
+  "version": "1.0.0",
+  "description": "Makes it easy to get the filename outputted by webpack just by specifying the name of the chunk and filetype(CSS/JS).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexskra/simple-php-manifest.git"
+  },
+  "keywords": [
+    "webpack-plugin",
+    "php",
+    "assets"
+  ],
+  "author": "alexskra.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexskra/simple-php-manifest/issues"
+  },
+  "homepage": "https://github.com/alexskra/simple-php-manifest#readme",
+  "files": [
+    "index.js",
+    "package.json"
+  ]
+}
